@@ -72,8 +72,7 @@ function sumAndMultiply(a,b,c){ //eslint-disable-line
   var messageTwo = 'The product of ' + a + ' and ' + b + ' and ' + c + ' is ' + bigPopTwo + '.';
   return [bigPop, bigPopTwo, messageOne, messageTwo];
 }
-sum(4,7,5,);
-multiply(4,7,5);
+
 
 // Here is the test for sumAndMultiply(); uncomment it to run it
 testSumAndMultiply(4,7,5);
